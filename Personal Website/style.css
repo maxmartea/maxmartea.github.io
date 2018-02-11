@@ -1,0 +1,27 @@
+#container{
+		width:1000px;
+		margin: 0 auto;
+		background-color: #f2eeab;
+	}
+#header{
+	margin-left: 25px;
+	text-align: center;
+	font-family: "Impact";
+	color:#2146bc;
+	}
+#content{
+	margin-left: 50px;
+	}
+p{ 
+	font-family: "MV Boli";
+	font-size: 20px;
+}
+nav li{ 
+	text-align: left;
+	position: relative;
+	
+}
+body{ 
+	line-height: 1.5;
+	padding: 4em 1em;
+}
