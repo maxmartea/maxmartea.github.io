@@ -27,3 +27,8 @@ body{
 	background-color: #f4a742;
 	
 }
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
