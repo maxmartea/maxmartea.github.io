@@ -1,0 +1,106 @@
+#container{
+		width:1000px;
+		margin: 0 auto;
+		background-color: #f2eeab;
+	}
+#header{
+	margin-left: 25px;
+	text-align: center;
+	font-family: "Impact";
+	color:#2146bc;
+	}
+#content{
+	margin-left: 50px;
+	padding-top: 100px;
+	font-family: Monotype Corsiva;
+	
+	}
+p{ 
+	font-family: "MV Boli";
+	font-size: 20px;
+}
+body{ 
+	line-height: 1.5;
+	padding: 4em 1em;
+	background-color: #f4a742;
+	
+}
+nav{ 
+	height: 42px;
+	background-color: cornflowerblue;
+}
+nav ul {
+	list-style:none;
+}
+nav ul li {
+	display: inline;
+	text-align: center;
+	background-color:#FFFFFFF;
+	line-height: 42px;
+	height: 42px;
+	font-family: Impact;
+	font-size: 20px;
+	color: white;
+	text-decoration: none;
+}
+nav ul li a:hover{
+	background-color: #ffffff;
+	color:blue;
+	border-radius: 8px;
+}
+nav ul li a{
+	text-decoration: none;
+		border-radius: 8px;
+	/*color: cornflowerblue;*/
+	padding: 0px 80px;
+
+}
+	
+
+#socialmedia {
+	float:right;
+}
+#content1{
+	margin-left: 50px;
+	padding-top: 100px;
+	font-family: MV Boli;
+	font-size: 12px;
+}
+
+#content1 h2{
+	font-size: 25px;
+	color:cornflowerblue;
+ font-family:MV Boli
+}
+#content h1{
+	font-family: MV Boli;
+	font-size: 25px;	
+}
+#content2{ 
+	margin-left: 50px;
+	padding-top: 100px;
+	font-family: MV Boli;
+	font-size: 12px;
+}
+#content2 h2{
+	font-size: 25px;
+	color:cornflowerblue;
+}
+	
+#content3{
+	margin-left: 50px;
+	padding-top: 100px;
+	font-family: Ariel;
+	font-size: 12px;
+	text-align: left;
+}
+#content3 h2{
+	font-size: 25px;
+	color:cornflowerblue;
+}
+#content3 p{
+	font-family: Ariel;
+}
+	
+	
+	
